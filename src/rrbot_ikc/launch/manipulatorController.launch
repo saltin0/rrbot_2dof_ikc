@@ -1,0 +1,5 @@
+<launch>
+    <node name="rrbot_controller" pkg = "rrbot_ikc" type="invKinController.py" output="screen"></node>
+  
+</launch>
+  
